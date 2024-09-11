@@ -19,7 +19,7 @@ I'm currently looking to grow my career by working with **MNCs**, while also tak
 ## 📂 **Projects**
 
 ### 1. Ratio  
-**Client:** [Client Name]  
+**Client:** US Client  
 **Description:** Manual testing of a web-based e-commerce platform. I created detailed test cases, performed functional and regression testing, and reported bugs to ensure a seamless user experience.  
 - **Tools used:** JIRA, TestRail  
 - **Key Focus:** Functional Testing, Bug Reporting, UAT  
@@ -41,5 +41,5 @@ I'm currently looking to grow my career by working with **MNCs**, while also tak
 ---
 
 ## 📫 **Let's Connect**
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **LinkedIn:** 
 - **Email:** arunraja8888@gmail.com

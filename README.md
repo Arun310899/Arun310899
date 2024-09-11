@@ -1,4 +1,4 @@
-👋 Hi, I'm Arunraj A.
+👋 **Hi, I'm Arunraj A**.
 Software Manual Tester | Freelance QA Specialist
 🔍 About Me:
 I'm a passionate Software Manual Tester with experience in testing various types of applications to ensure they are bug-free and meet client expectations. I specialize in manual testing, working with test cases, bug reporting, and performing functional, regression, and exploratory testing.
